@@ -1,4 +1,4 @@
-# Hacker Profiles – Threat Actors & Compromise
+
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Educational](https://img.shields.io/badge/Purpose-Educational-blue)
