@@ -7,6 +7,11 @@
 
 <hr>
 
+<h1 align="center">
+  Profils d'attaquants & niveaux de menace<br>
+  (Threat Actors)
+</h1>
+
 <p align="center">
   © 2026 <strong>Virginie Lechene</strong> — Tous droits réservés<br>
   Reproduction interdite sans autorisation préalable.<br>
