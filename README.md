@@ -1,4 +1,9 @@
+# Hacker Profiles – Threat Actors & Compromise
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Educational](https://img.shields.io/badge/Purpose-Educational-blue)
+![Defensive Security](https://img.shields.io/badge/Security-Defensive-important)
+![Ethical](https://img.shields.io/badge/Ethical-Yes-success)
 <p align="center">
   <img src="Hacker_profiles_threat_actor.PNG" alt="Hacker Profiles Cover" width="100%">
 </p>
