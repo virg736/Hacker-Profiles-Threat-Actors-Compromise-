@@ -404,9 +404,6 @@ Un service interne est exposé sans protection.
 
 `curl http://192.168.100.10:8080`
 
-curl http://192.168.100.10:8080
-
-
 <p align="center">
   <img src="attack_internal_service_access.png" width="45%">
   <img src="victim_internal_service_exposed.png" width="45%">
