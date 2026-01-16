@@ -1,4 +1,3 @@
-#
 
 <p align="center">
   <img src="Hacker_profiles_threat_actor.PNG" alt="Hacker Profiles Cover" width="100%">
