@@ -38,14 +38,6 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virg736/Hacker-Profiles-Threat-Actors-Compromise/main/threat_levlas.PNG"
-       alt="Threat Levels"
-       width="600">
-</p>
-
-
-
 
 ## 🟢 Niveau FAIBLE - Low Threat
 
