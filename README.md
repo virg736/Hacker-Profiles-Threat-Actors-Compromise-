@@ -38,6 +38,12 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
+<p align="center">
+  <img src="images/threat_levials.PNG" alt="Threat Levels" width="700">
+</p>
+
+
+
 ## 🟢 Niveau FAIBLE - Low Threat
 
 ### Script Kiddie
