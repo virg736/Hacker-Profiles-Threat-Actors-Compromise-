@@ -1,4 +1,3 @@
-#
 
 <p align="center">
   <img src="Hacker_profiles_threat_actor.PNG" alt="Hacker Profiles Cover" width="100%">
@@ -336,7 +335,7 @@ Simulation d’une attaque interne suite à une mauvaise configuration.
 - Réseau : 192.168.100.0/24
 
 ### Scénario
-Un employé reçoit un mail interne RH.  
+Un employé reçoit un mail interne des RH.  
 Un service interne est exposé sans protection.
 
 ### Attaque
