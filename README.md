@@ -361,3 +361,30 @@ curl http://192.168.100.10:8080
   <img src="attack_internal_service_access.png" width="45%">
   <img src="victim_internal_service_exposed.png" width="45%">
 </p>
+
+
+----
+
+✍️ Auteur : *Virginie Lechene*
+
+---
+
+## Licence
+Le script est publié sous la licence MIT.
+
+## À propos de l’usage
+Ce projet est destiné exclusivement à des fins pédagogiques, notamment dans le cadre de :
+- d’une formation en cybersécurité,
+- de tests d’intrusion légaux (pentest),
+- d’analyses réseau dans un environnement contrôlé.
+
+⚠️ L’auteure ne cautionne ni n’autorise l’utilisation de ce script en dehors d’un cadre légal strictement défini.
+Toute utilisation non conforme est interdite et relève uniquement de la responsabilité de l’utilisateur.
+
+## Droits sur les visuels
+Les visuels, illustrations ou captures présents dans ce dépôt sont la propriété exclusive de l’auteure.
+Toute reproduction ou utilisation non autorisée est interdite.
+
+
+
+
