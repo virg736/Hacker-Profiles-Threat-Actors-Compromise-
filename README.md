@@ -298,6 +298,13 @@ Ce projet est :
 - Procédures internes
 - Vérification des mails
 
+<div align="center">
+<img src="attack_internal_service_access.png" width="45%" />
+<img src="victim_internal_service_exposed.png" width="45%" />
+</div>
+
+
+
 ---
 
 J’ai simulé un serveur interne RH sur une machine Debian.  
@@ -324,6 +331,8 @@ Un service interne est exposé sans protection.
 ### Attaque
 
 `curl http://192.168.100.10:8080`
+
+curl http://192.168.100.10:8080
 
 
 <p align="center">
