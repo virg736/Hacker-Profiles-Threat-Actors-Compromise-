@@ -299,18 +299,6 @@ Ce projet est :
 - Vérification des mails
 
 
-<p align="center">
-  <img src="phisting_internal_access_simulation.png" width="45%" />
-  <img src="victim_phisting_mail_opened.png" width="45%" />
-</p>
-
-<div align="center">
-<img src="attack_internal_service_access.png" width="45%" />
-<img src="victim_internal_service_exposed.png" width="45%" />
-</div>
-
-
-
 ---
 
 J’ai simulé un serveur interne RH sur une machine Debian.  
