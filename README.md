@@ -173,6 +173,26 @@ Une stratégie de sécurité efficace doit :
 
 # Panorama des menaces - Pentest & Sensibilisation à la cybersécurité
 
+Chaîne d’attaque simplifiée (vue globale)
+
+[Humain]
+   ↓
+[Erreur]
+   ↓
+[Exposition]
+   ↓
+[Accès]
+   ↓
+[Impact]
+
+Points de défense :
+- Sensibilisation & formation (Humain / Erreur)
+- Procédures & contrôles (Exposition)
+- MFA / ACL / Durcissement (Accès)
+- Logs / Surveillance / Détection (Impact)
+
+
+
 
 [Humain] ──► [Erreur] ──► [Exposition] ──► [Accès] ──► [Impact]
    │           │              │              │
