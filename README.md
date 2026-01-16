@@ -7,7 +7,7 @@ L’objectif est de **mieux comprendre les comportements, motivations et capacit
 
 ---
 
-## 🎯 Pourquoi classifier les attaquants ?
+##  Pourquoi classifier les attaquants ?
 
 Tous les attaquants ne disposent **ni du même niveau technique**, **ni des mêmes ressources**, **ni des mêmes objectifs**.
 
@@ -83,7 +83,7 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-## 📊 Synthèse des profils
+##  Synthèse des profils
 
 - Tous les attaquants ne nécessitent pas des exploits complexes
 - Les attaques les plus efficaces exploitent souvent :
@@ -94,7 +94,7 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-## 🛡️ Implication pour la défense
+##  Implication pour la défense
 
 Une stratégie de sécurité efficace doit :
 - intégrer la dimension humaine
@@ -123,7 +123,7 @@ L’objectif n’est **pas** de montrer *comment attaquer*, mais de **comprendre
 
 ---
 
-## 🧠 1. Ingénierie sociale (facteur humain)
+##  1. Ingénierie sociale (facteur humain)
 
 **Exploiter le comportement humain plutôt que les failles techniques.**
 
@@ -154,7 +154,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 🧩 3. Vulnérabilités logicielles
+##  3. Vulnérabilités logicielles
 
 **Exploiter des bugs ou des failles connues dans les logiciels.**
 
@@ -179,7 +179,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 🖥️ 5. Systèmes & serveurs
+##  5. Systèmes & serveurs
 
 **Accès abusifs ou non autorisés aux machines.**
 
@@ -203,7 +203,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 📦 7. Chaîne d’approvisionnement (Supply Chain)
+##  7. Chaîne d’approvisionnement (Supply Chain)
 
 **Cibler un fournisseur plutôt que la victime finale.**
 
@@ -214,7 +214,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 🦠 8. Logiciels malveillants (Malware)
+##  8. Logiciels malveillants (Malware)
 
 **Installer un programme malveillant sur la machine de la victime.**
 
@@ -227,7 +227,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 🔌 9. Accès physiques
+##  9. Accès physiques
 
 **Souvent sous-estimés, mais très efficaces.**
 
@@ -239,7 +239,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 🧪 10. Erreurs humaines & organisationnelles
+##  10. Erreurs humaines & organisationnelles
 
 **Sans attaque technique directe.**
 
@@ -251,10 +251,10 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
-👉 **Le hacking n’est presque jamais “magique”**  
-👉 Il repose principalement sur :
+ **Le hacking n’est presque jamais “magique”**  
+ Il repose principalement sur :
 - des erreurs humaines  
 - de la négligence  
 - une confiance excessive  
