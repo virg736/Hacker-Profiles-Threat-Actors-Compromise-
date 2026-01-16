@@ -15,7 +15,7 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-## 🟢 Niveau FAIBLE — Low Threat
+## 🟢 Niveau FAIBLE - Low Threat
 
 ### Script Kiddie
 - Compétences techniques limitées
@@ -27,7 +27,7 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-## 🟠 Niveau MOYEN — Medium Threat
+## 🟠 Niveau MOYEN - Medium Threat
 
 ### Phisher / Ingénieur social
 - Exploite principalement le facteur humain
@@ -43,7 +43,7 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-## 🔴 Niveau ÉLEVÉ — High Threat
+## 🔴 Niveau ÉLEVÉ - High Threat
 
 ### Cybercriminel
 - Motivation financière
@@ -62,7 +62,7 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
-## ⚫ Niveau CRITIQUE — Critical Threat
+## ⚫ Niveau CRITIQUE - Critical Threat
 
 ### Opérateur de ransomware
 - Chiffrement des données et extorsion
@@ -115,7 +115,7 @@ Ce contenu est :
 
 ---
 
-# Panorama des menaces – Pentest & Sensibilisation à la cybersécurité
+# Panorama des menaces - Pentest & Sensibilisation à la cybersécurité
 
 Ce projet propose une **vue d’ensemble des principales méthodes utilisées lors des compromissions de systèmes**, avec une approche **pédagogique, analytique et défensive**.
 
@@ -274,7 +274,7 @@ Ce projet est :
 
 ---
 
-## Scénario : Ingénierie sociale – Phishing interne
+## Scénario : Ingénierie sociale - Phishing interne
 
 ### Attaquant (Parrot)
 - Profil : Phisher
@@ -307,7 +307,7 @@ Cela démontre qu’une mauvaise configuration suffit à exposer des données se
 
 ---
 
-## Démonstration d’attaque – Ingénierie sociale & exposition de service
+## Démonstration d’attaque - Ingénierie sociale & exposition de service
 
 ### Contexte
 Simulation d’une attaque interne suite à une mauvaise configuration.
