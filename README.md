@@ -135,16 +135,6 @@ Une stratégie de sécurité efficace doit :
 
 ---
 
-## ⚖️ Cadre du projet
-
-Ce contenu est :
-- pédagogique
-- orienté analyse et prévention
-- sans démonstration offensive
-- sans attaque réelle
-- réalisé dans un cadre éthique et contrôlé
-
----
 
 # Panorama des menaces - Pentest & Sensibilisation à la cybersécurité
 
@@ -372,6 +362,17 @@ curl http://192.168.100.10:8080
 
 
 ----
+
+## ⚖️ Cadre du projet
+
+Ce contenu est :
+- pédagogique
+- orienté analyse et prévention
+- sans démonstration offensive
+- sans attaque réelle
+- réalisé dans un cadre éthique et contrôlé
+
+---
 
 ✍️ Auteur : *Virginie Lechene*
 
