@@ -241,7 +241,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 - Virus
 - Chevaux de Troie
-- Ransomwares
+- Rançongiciels
 - Spywares / keyloggers
 - Backdoors
 - Fichiers piégés (PDF, ZIP, EXE)
@@ -285,15 +285,6 @@ Les incidents de sécurité sont généralement le résultat de **faiblesses cum
 
 ---
 
-### ⚖️ Cadre éthique du projet
-
-Ce projet est :
-- à visée pédagogique  
-- orienté défense et sensibilisation  
-- réalisé dans un environnement contrôlé et isolé  
-- sans attaque réelle ni exploitation illégale  
-
----
 
 ## Scénario : Ingénierie sociale - Phishing interne
 
@@ -371,6 +362,16 @@ Ce contenu est :
 - sans démonstration offensive
 - sans attaque réelle
 - réalisé dans un cadre éthique et contrôlé
+
+---
+
+### ⚖️ Cadre éthique du projet
+
+Ce projet est :
+- à visée pédagogique  
+- orienté défense et sensibilisation  
+- réalisé dans un environnement contrôlé et isolé  
+- sans attaque réelle ni exploitation illégale  
 
 ---
 
