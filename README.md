@@ -177,6 +177,14 @@ Ce projet propose une **vue d’ensemble des principales méthodes utilisées lo
 
 L’objectif n’est **pas** de montrer *comment attaquer*, mais de **comprendre pourquoi et comment les attaques fonctionnent dans le monde réel**, afin de mieux les prévenir.
 
+
+<p align="center">
+  <img src="threat_actor-profiles.PNG" alt="Threat Actor Profiles" width="800">
+  <br>
+  <em>Threat actor profiles overview</em>
+</p>
+
+
 ---
 
 ##  1. Ingénierie sociale (facteur humain)
