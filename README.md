@@ -173,6 +173,14 @@ Une stratégie de sécurité efficace doit :
 
 # Panorama des menaces - Pentest & Sensibilisation à la cybersécurité
 
+
+[Humain] ──► [Erreur] ──► [Exposition] ──► [Accès] ──► [Impact]
+   │           │              │              │
+   │           │              │              └─ Surveillance / Logs
+   │           │              └─ Durcissement / MFA / ACL
+   │           └─ Sensibilisation / Procédures
+   └─ Formation / Culture sécurité
+
 Ce projet propose une **vue d’ensemble des principales méthodes utilisées lors des compromissions de systèmes**, avec une approche **pédagogique, analytique et défensive**.
 
 L’objectif n’est **pas** de montrer *comment attaquer*, mais de **comprendre pourquoi et comment les attaques fonctionnent dans le monde réel**, afin de mieux les prévenir.
