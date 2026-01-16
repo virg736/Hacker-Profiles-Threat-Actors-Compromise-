@@ -38,6 +38,13 @@ Comprendre **qui attaque** est souvent plus important que comprendre **comment i
 
 ---
 
+<h3 align="center">Threat Levels</h3>
+
+<p align="center">
+  <img src="threat_levals.PNG" alt="Threat Levels" width="600">
+</p>
+
+
 
 ## 🟢 Niveau FAIBLE - Low Threat
 
