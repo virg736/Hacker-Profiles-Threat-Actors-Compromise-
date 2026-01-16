@@ -1,4 +1,10 @@
 #
+
+<p align="center">
+  <img src="Hacker_profiles_threat_actor.PNG" alt="Hacker Profiles Cover" width="100%">
+</p>
+
+
 # Profils d’attaquants & niveaux de menace (Threat Actors)
 
 Ce chapitre présente une **classification des profils d’attaquants** couramment rencontrés en cybersécurité, ainsi qu’une **estimation de leur niveau de menace**.
