@@ -1,8 +1,21 @@
+#
 
 <p align="center">
   <img src="Hacker_profiles_threat_actor.PNG" alt="Hacker Profiles Cover" width="100%">
 </p>
 
+
+<hr>
+
+<p align="center">
+  © 2026 <strong>Virginie Lechene</strong> — Tous droits réservés<br>
+  Reproduction interdite sans autorisation préalable.<br>
+  Usage pédagogique uniquement.
+</p>
+
+<p align="center">
+  <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="Creative Commons BY-NC">
+</p>
 
 # Profils d’attaquants & niveaux de menace (Threat Actors)
 
