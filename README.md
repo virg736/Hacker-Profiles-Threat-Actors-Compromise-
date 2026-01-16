@@ -34,6 +34,37 @@ L’objectif est de **mieux comprendre les comportements, motivations et capacit
 
 ---
 
+## 📑 Sommaire
+
+- [Objectif du projet](#objectif-du-projet)
+- [Profils de menace](#profils-de-menace)
+  - [Niveau faible – Low Threat](#niveau-faible--low-threat)
+  - [Niveau moyen – Medium Threat](#niveau-moyen--medium-threat)
+  - [Niveau élevé – High Threat](#niveau-eleve--high-threat)
+  - [Niveau critique – Critical Threat](#niveau-critique--critical-threat)
+- [Synthèse des profils](#synthese-des-profils)
+- [Implications pour la défense](#implications-pour-la-defense)
+- [Panorama des menaces](#panorama-des-menaces)
+  - [Ingénierie sociale](#ingenierie-sociale-facteur-humain)
+  - [Attaques sur les mots de passe](#attaques-sur-les-mots-de-passe)
+  - [Vulnérabilités logicielles](#vulnerabilites-logicielles)
+  - [Réseaux et infrastructure](#reseaux--infrastructure)
+  - [Systèmes et serveurs](#systemes--serveurs)
+  - [Cloud et services en ligne](#cloud--services-en-ligne)
+  - [Chaîne d’approvisionnement](#chaine-dapprovisionnement-supply-chain)
+  - [Logiciels malveillants](#logiciels-malveillants-malware)
+  - [Accès physiques](#acces-physiques)
+  - [Erreurs humaines et organisationnelles](#erreurs-humaines--organisationnelles)
+- [Scénario : Ingénierie sociale](#scenario--ingenierie-sociale--phishing-interne)
+- [Démonstration d’attaque](#demonstration-dattaque--ingenierie-sociale--exposition-de-service)
+- [Cadre du projet](#cadre-du-projet)
+- [Cadre éthique du projet](#cadre-ethique-du-projet)
+- [Conclusion](#conclusion)
+- [Licence](#licence)
+
+---
+
+
 ##  Pourquoi classifier les attaquants ?
 
 Tous les attaquants ne disposent **ni du même niveau technique**, **ni des mêmes ressources**, **ni des mêmes objectifs**.
