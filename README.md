@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  © 2026 <strong>Virginie Lechene</strong> — Tous droits réservés<br>
+  © 2026 <strong>Virginie Lechene</strong> - Tous droits réservés<br>
   Reproduction interdite sans autorisation préalable.<br>
   Usage pédagogique uniquement.
 </p>
@@ -22,7 +22,7 @@
   <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="Creative Commons BY-NC">
 </p>
 
-# Profils d’attaquants & niveaux de menace (Threat Actors)
+---
 
 Ce chapitre présente une **classification des profils d’attaquants** couramment rencontrés en cybersécurité, ainsi qu’une **estimation de leur niveau de menace**.
 
