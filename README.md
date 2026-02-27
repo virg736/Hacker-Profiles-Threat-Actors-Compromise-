@@ -17,9 +17,7 @@
 </h1>
 
 <p align="center">
-  © 2026 <strong>Virginie Lechene</strong> - Tous droits réservés<br>
-  Reproduction interdite sans autorisation préalable.<br>
-  Usage pédagogique uniquement.
+  © 2026 <strong>Virginie Lechene</strong> 
 </p>
 
 <p align="center">
@@ -449,10 +447,10 @@ Ce projet est destiné exclusivement à des fins pédagogiques, notamment dans l
 ⚠️ L’auteure ne cautionne ni n’autorise l’utilisation de ce script en dehors d’un cadre légal strictement défini.
 Toute utilisation non conforme est interdite et relève uniquement de la responsabilité de l’utilisateur.
 
-## Droits sur les visuels
-Les visuels, illustrations ou captures présents dans ce dépôt sont la propriété exclusive de l’auteure.
-Toute reproduction ou utilisation non autorisée est interdite.
 
+## 📷 Droits sur les visuels
 
+Les visuels de ce dépôt sont protégés par la licence CC BY-ND 4.0.
+Attribution obligatoire – Modification interdite.
 
-
+© 2026 Virginie Lechene
