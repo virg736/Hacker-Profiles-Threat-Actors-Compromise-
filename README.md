@@ -62,6 +62,19 @@ L’objectif est de **mieux comprendre les comportements, motivations et capacit
 
 ---
 
+- [Démonstration en environnement contrôlé](#démonstration-en-environnement-contrôlé)
+
+---
+
+# Pourquoi classifier les attaquants ?
+
+Tous les attaquants ne disposent **ni du même niveau technique, ni des mêmes ressources, ni des mêmes objectifs.**
+
+Comprendre **le profil, les motivations et les capacités d’un attaquant** aide à adapter les mesures de défense.
+
+---
+
+## Profils de menace
 
 ##  Pourquoi classifier les attaquants ?
 
