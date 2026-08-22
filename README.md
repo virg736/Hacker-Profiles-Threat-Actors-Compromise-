@@ -112,20 +112,6 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 ➡️ **Ces profils peuvent présenter des niveaux de sophistication et d’impact très variables selon le contexte.**
 
 
-## 🟠 Niveau MOYEN - Medium Threat
-
-### Phisher / Ingénieur social
-- Exploite principalement le facteur humain
-- Très efficace sans compétences techniques avancées
-- Forte dépendance à la manipulation psychologique
-
-### Hacktiviste
-- Motivations idéologiques ou politiques
-- Actions ciblées pour la visibilité et l’impact médiatique
-- Peut causer des interruptions de service ou des fuites d’informations
-
-➡️ **Menace crédible**, souvent sous-estimée.
-
 ---
 
 ## 🔴 Niveau ÉLEVÉ - High Threat
