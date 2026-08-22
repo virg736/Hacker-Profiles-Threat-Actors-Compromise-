@@ -418,6 +418,7 @@ Un employé reçoit un mail interne des RH.
 Un service interne est exposé sans protection.
 
 ### Attaque
+→ Validation de l’exposition du service
 
 `curl http://192.168.100.10:8080`
 
