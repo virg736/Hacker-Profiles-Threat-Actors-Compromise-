@@ -76,12 +76,6 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ## Profils de menace
 
-##  Pourquoi classifier les attaquants ?
-
-Tous les attaquants ne disposent **ni du même niveau technique**, **ni des mêmes ressources**, **ni des mêmes objectifs**.
-
-Comprendre **qui attaque** est souvent plus important que comprendre **comment il attaque**.
-
 ---
 
 <h3 align="center">Threat Levels</h3>
