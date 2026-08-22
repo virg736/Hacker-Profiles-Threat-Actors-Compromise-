@@ -11,7 +11,7 @@
 <hr>
 
 <h1 align="center">
-  Profils d'attaquants & niveaux de menace<br>
+  Profils d'attaquants et capacités <br>
   (Threat Actors)
 </h1>
 
@@ -25,10 +25,7 @@
 
 ---
 
-# Profils d’attaquants & capacités  
-## Threat Actors
 
-© 2026 Virginie Lechene
 
 ---
 
