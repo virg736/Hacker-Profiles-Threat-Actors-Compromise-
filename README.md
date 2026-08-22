@@ -93,16 +93,6 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ➡️ **Profil souvent opportuniste, avec un niveau de sophistication généralement limité.**
 
-## 🟢 Niveau FAIBLE - Low Threat
-
-### Script Kiddie
-- Compétences techniques limitées
-- Utilise des outils existants sans réelle compréhension
-- Motivations : curiosité, défi, reconnaissance
-- Impact généralement faible mais imprévisible
-
-➡️ **Menace opportuniste**, mais bruyante.
-
 ---
 
 ## 🟠 Niveau MOYEN - Medium Threat
