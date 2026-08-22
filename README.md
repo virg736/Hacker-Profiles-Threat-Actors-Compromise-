@@ -168,7 +168,7 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ##  Synthèse des profils
 
-- Tous les attaquants ne nécessitent pas des exploits complexes
+- Tous les attaquants ne nécessitent pas d'exploits complexes
 - Les attaques les plus efficaces exploitent souvent :
   - la confiance
   - les erreurs humaines
