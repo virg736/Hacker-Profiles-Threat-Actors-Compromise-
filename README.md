@@ -398,7 +398,7 @@ De nombreux incidents de sécurité résultent de faiblesses cumulées plutôt q
 
 J’ai simulé un serveur interne RH sur une machine Debian.  
 Ce serveur était accessible sans authentification sur le réseau interne.  
-Depuis une machine attaquante (Parrot), j’ai pu accéder directement aux données confidentielles avec une simple requête HTTP.  
+Depuis une machine attaquante (Parrot), j’ai pu accéder directement aux données internes simulées avec une simple requête HTTP.  
 Cela démontre qu’une mauvaise configuration suffit à exposer des données sensibles, même sans malware.
 
 ---
