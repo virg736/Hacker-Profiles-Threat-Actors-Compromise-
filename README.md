@@ -238,7 +238,6 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 - Usurpation d’identité
 
 🔑 L’ingénierie sociale fait partie des principaux vecteurs d’attaque observés dans le monde réel.
-🔑 **Il s’agit du vecteur d’attaque n°1 dans le monde réel.**
 
 ---
 
