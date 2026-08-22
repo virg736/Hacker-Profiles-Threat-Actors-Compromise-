@@ -164,25 +164,6 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ➡️ **Ces profils peuvent présenter un impact très important, selon leurs objectifs, leurs capacités et la cible visée.**
 
-## ⚫ Niveau CRITIQUE - Critical Threat
-
-### Opérateur de ransomware
-- Chiffrement des données et extorsion
-- Impacts financiers, opérationnels et juridiques majeurs
-- Attaques souvent très bien préparées
-
-### Menace interne (Insider Threat)
-- Accès légitime aux systèmes
-- Connaissance de l’environnement interne
-- Difficile à détecter
-
-### APT (Advanced Persistent Threat – acteur étatique)
-- Ressources importantes
-- Attaques discrètes et sur le long terme
-- Espionnage, sabotage, déstabilisation stratégique
-
-➡️ **Menace maximale**, ciblée et persistante.
-
 ---
 
 ##  Synthèse des profils
