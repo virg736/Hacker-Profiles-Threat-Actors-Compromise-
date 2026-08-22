@@ -359,7 +359,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 - une confiance excessive  
 - des systèmes mal protégés  
 
-Les incidents de sécurité sont généralement le résultat de **faiblesses cumulées**, et non d’une attaque sophistiquée isolée.
+De nombreux incidents de sécurité résultent de faiblesses cumulées plutôt que d’une seule attaque sophistiquée.
 
 ---
 
