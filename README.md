@@ -84,7 +84,14 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
   <img src="threat_levals.PNG" alt="Threat Levels" width="600">
 </p>
 
+## 🟢 Profil : Script Kiddie
 
+- Compétences techniques généralement limitées
+- Utilise souvent des outils existants avec une compréhension technique limitée
+- Motivations possibles : curiosité, défi, reconnaissance
+- Impact variable selon la cible et les outils utilisés
+
+➡️ **Profil souvent opportuniste, avec un niveau de sophistication généralement limité.**
 
 ## 🟢 Niveau FAIBLE - Low Threat
 
