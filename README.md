@@ -26,7 +26,7 @@
 ---
 
 Ce chapitre présente une **classification des profils d’attaquants** couramment rencontrés en cybersécurité, 
-ainsi qu’une présentation de leurs capacités et de leur impact potentiel.**.
+ainsi qu’une présentation de leurs capacités et de leur impact potentiel**. 
 
 L’objectif est de **mieux comprendre les comportements, motivations et capacités** des différents acteurs malveillants, afin d’adapter les stratégies de défense et de prévention.
 
