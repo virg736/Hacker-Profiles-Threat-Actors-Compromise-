@@ -1,5 +1,4 @@
 
-
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Educational](https://img.shields.io/badge/Purpose-Educational-blue)
 ![Defensive Security](https://img.shields.io/badge/Security-Defensive-important)
@@ -139,6 +138,31 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 
 ---
+
+## ⚫ Profils : Opérateur de ransomware / Menace interne / APT
+
+### Opérateur de ransomware
+
+- Utilise des rançongiciels pour chiffrer ou exfiltrer des données
+- Peut provoquer des impacts financiers, opérationnels et juridiques importants
+- Les attaques peuvent être opportunistes ou très préparées
+- Impact variable selon la cible et l’étendue de la compromission
+
+### Menace interne (Insider Threat)
+
+- Dispose d’un accès légitime ou autorisé à certaines ressources
+- Connaît généralement l’environnement interne
+- Peut être malveillante, négligente ou accidentelle
+- Peut être difficile à détecter selon le contexte
+
+### APT (Advanced Persistent Threat)
+
+- Dispose généralement de ressources et de capacités importantes
+- Mène souvent des opérations discrètes et de longue durée
+- Peut viser l’espionnage, le sabotage ou des objectifs stratégiques
+- Certaines APT sont associées à des États, mais ce n’est pas systématique
+
+➡️ **Ces profils peuvent présenter un impact très important, selon leurs objectifs, leurs capacités et la cible visée.**
 
 ## ⚫ Niveau CRITIQUE - Critical Threat
 
