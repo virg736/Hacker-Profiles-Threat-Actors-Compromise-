@@ -25,10 +25,18 @@
 
 ---
 
-Ce chapitre présente une **classification des profils d’attaquants** couramment rencontrés en cybersécurité, 
-ainsi qu’une présentation de leurs capacités et de leur impact potentiel**. 
+# Profils d’attaquants & capacités  
+## Threat Actors
 
-L’objectif est de **mieux comprendre les comportements, motivations et capacités** des différents acteurs malveillants, afin d’adapter les stratégies de défense et de prévention.
+© 2026 Virginie Lechene
+
+---
+
+Ce chapitre présente les **principaux profils d’attaquants rencontrés en cybersécurité**, ainsi que leurs **motivations, leurs capacités et leur impact potentiel**.
+
+Les capacités d’un attaquant peuvent varier fortement selon **ses compétences techniques, ses ressources, ses objectifs, son niveau d’accès et la cible visée**.
+
+L’objectif est de **mieux comprendre les comportements, les motivations et les capacités des différents acteurs malveillants**, afin d’adapter les stratégies de **défense, de prévention et de sensibilisation**.
 
 ---
 
