@@ -137,22 +137,6 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ➡️ **Ces profils peuvent présenter un niveau de sophistication et un impact importants, mais variables selon le contexte.**
 
-## 🔴 Niveau ÉLEVÉ - High Threat
-
-### Cybercriminel
-- Motivation financière
-- Organisation structurée
-- Attaques répétées et ciblées
-
-### Opérateur de malware
-- Développement ou utilisation de logiciels malveillants
-- Capacité à maintenir une persistance sur les systèmes
-
-### Opérateur de botnet
-- Contrôle de réseaux de machines compromises
-- Utilisé pour des attaques massives ou coordonnées
-
-➡️ **Menace sérieuse**, avec un fort impact potentiel.
 
 ---
 
