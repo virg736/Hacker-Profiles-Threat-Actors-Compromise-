@@ -255,7 +255,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 
 ##  3. Vulnérabilités logicielles
 
-**Exploiter des bugs ou des failles connues dans les logiciels.**
+**Exploiter des bugs ou des vulnérabilités dans les logiciels.**
 
 - Logiciels non mis à jour
 - Failles zero-day
