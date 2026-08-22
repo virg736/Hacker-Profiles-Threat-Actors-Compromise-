@@ -173,6 +173,7 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
   - la confiance
   - les erreurs humaines
   - les mauvaises configurations
+  - Le niveau de menace dépend notamment de la motivation, des capacités, des ressources, de l’accès disponible et de la cible visée.
 - Le niveau de menace dépend autant de la **motivation** que du **niveau technique**
 
 ---
