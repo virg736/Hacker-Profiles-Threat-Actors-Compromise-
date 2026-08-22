@@ -307,7 +307,7 @@ L’ingénierie sociale cible la **confiance**, les **habitudes** et les **émot
 **Cibler un fournisseur plutôt que la victime finale.**
 
 - Mises à jour logicielles compromises
-- Librairies ou dépendances infectées
+- Librairies ou dépendances compromises
 - Prestataires mal sécurisés
 - Détournement d’outils légitimes
 
