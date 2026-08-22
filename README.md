@@ -114,6 +114,29 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ---
 
+## 🔴 Profils : Cybercriminel / Opérateur de malware / Opérateur de botnet
+
+### Cybercriminel
+
+- Motivation souvent financière
+- Peut agir seul ou au sein d’une organisation structurée
+- Peut mener des attaques répétées ou ciblées
+- Capacités techniques variables selon les individus ou les groupes
+
+### Opérateur de malware
+
+- Développe ou utilise des logiciels malveillants
+- Peut chercher à maintenir un accès persistant aux systèmes
+- Capacités variables selon les outils et les objectifs
+
+### Opérateur de botnet
+
+- Contrôle ou exploite des réseaux de machines compromises
+- Peut être utilisé pour des attaques massives ou coordonnées
+- Impact variable selon la taille du botnet et la cible
+
+➡️ **Ces profils peuvent présenter un niveau de sophistication et un impact importants, mais variables selon le contexte.**
+
 ## 🔴 Niveau ÉLEVÉ - High Threat
 
 ### Cybercriminel
