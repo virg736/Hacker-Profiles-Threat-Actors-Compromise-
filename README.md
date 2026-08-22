@@ -182,7 +182,7 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 Une stratégie de sécurité efficace doit :
 - intégrer la dimension humaine
 - prendre en compte les profils d’attaquants réalistes
-- adapter les contre-mesures au niveau de menace
+- adapter les mesures de sécurité au niveau de risque et au contexte adapter les contre-mesures au niveau de menace
 - renforcer la sensibilisation et les procédures internes
 
 ---
