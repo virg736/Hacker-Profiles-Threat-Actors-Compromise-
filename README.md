@@ -95,6 +95,23 @@ Comprendre **le profil, les motivations et les capacités d’un attaquant** aid
 
 ---
 
+## 🟠 Profil : Phisher / Ingénieur social
+
+- Exploite principalement le facteur humain
+- Peut être efficace sans compétences techniques avancées
+- S’appuie sur la manipulation psychologique, la confiance ou l’urgence
+- Impact variable selon la cible et les informations obtenues
+
+### Hacktiviste
+
+- Motivations souvent idéologiques, sociales ou politiques
+- Recherche fréquemment la visibilité ou un impact médiatique
+- Peut provoquer des interruptions de service ou des fuites d’informations
+- Capacités techniques très variables selon les individus ou les groupes
+
+➡️ **Ces profils peuvent présenter des niveaux de sophistication et d’impact très variables selon le contexte.**
+
+
 ## 🟠 Niveau MOYEN - Medium Threat
 
 ### Phisher / Ingénieur social
